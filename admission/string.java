@@ -1,0 +1,5 @@
+package admission;
+
+class string {
+
+}
